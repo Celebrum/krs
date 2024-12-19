@@ -2,7 +2,7 @@ Metadata-Version: 2.1
 Name: krs
 Version: 0.1.0
 Summary: Kubernetes Recommendation Service with LLM integration
-Home-page: https://github.com/KrsGPTs/krs
+Home-page: https://github.com/kubetoolsca/krs
 Author: Abhijeet Mazumdar , Karan Singh & Ajeet Singh Raina
 Author-email: abhijeet@kubetools.ca, karan@kubetools.ca, ajeet@kubetools.ca
 Classifier: Programming Language :: Python :: 3
